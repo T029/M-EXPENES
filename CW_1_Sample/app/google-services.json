@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29948787924",
+    "project_id": "m-expense-272e9",
+    "storage_bucket": "m-expense-272e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29948787924:android:d50dde932a82bbcdda0f41",
+        "android_client_info": {
+          "package_name": "vn.edu.greenwich.cw_1_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29948787924-isega16o43mhochf44f1ma9usvov921i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_RvoZ77fLGbsU2Fn1GSiNzCDm68f8nyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29948787924-isega16o43mhochf44f1ma9usvov921i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
